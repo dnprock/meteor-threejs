@@ -1,5 +1,5 @@
 {
-  "name": "three.js",
+  "name": "three",
   "description": "three.js package for meteor",
   "homepage": "https://github.com/dnprock/meteor-threejs",
   "author": "Phuoc Do <dnprock@gmail.com>",
