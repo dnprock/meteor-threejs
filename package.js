@@ -9,4 +9,5 @@ Package.on_use(function (api) {
     ]
     ,'client'
   );
+  api.export('THREE');
 });
