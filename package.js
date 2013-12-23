@@ -9,5 +9,5 @@ Package.on_use(function (api) {
     ]
     ,'client'
   );
-  api.export('THREE');
+  api.export('THREE', 'client');
 });
