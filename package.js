@@ -5,7 +5,7 @@ Package.describe({
 Package.on_use(function (api) {
   api.use('jquery', 'client');
   api.add_files([
-      'lib/threejs/three.min.js'
+      'lib/three.js'
     ]
     ,'client'
   );
